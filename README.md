@@ -1,16 +1,15 @@
-### Hi there 👋
+BOAS VINDAS AO MEU PERFIL
 
-<!--
-**leidianeandrade/leidianeandrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MEU NOME É LEIDIANE ANDRADE
 
-Here are some ideas to get you started:
+-ESTOU ESTUDANDO NA [ALURA] HTTPS;//WWW.ALURA.COM.BR
+-ESTOU ME DESENVOLVENDO NA LINGUAGEM JAVASCRPT
+-UTILIZO ESSE ESPAÇO PARA MINHA ORGANIZAÇÃO E COMPARTILHAMENTO DOS MEU PROJETOS DESENVOLVIDO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###VOCẼ ENTRAR EM CONTATO COMIGO
+
+A.LEIDIANE@ESCOLA.PR.GOV.BR
+
+A.LEIDIANE@ESCOLA.PR.GOV.BR
+
+![](https://media.tenor.com/w-MLMWYLW-gAAAAd/shanah-tovah-happy-new-year.gif)
